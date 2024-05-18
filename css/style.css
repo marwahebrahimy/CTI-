@@ -1,0 +1,132 @@
+
+body{
+    margin: 0;
+    padding: 0;   
+}
+
+
+.second-section{
+
+text-align: center;
+padding: 0 200px;
+margin-top: 20px;
+
+}
+
+
+.hearder-style{
+background-color: rgb(31, 62, 199);
+margin: 0 40px 0 40px;
+color: white;
+
+
+}
+
+.text-colom{
+
+    padding: 0% 3%;
+}
+
+.style-trnsition{
+    
+display: inline-block;
+align-items: center;
+
+
+}
+.style-trnsition:hover{
+
+transform: rotateX(30deg);
+
+
+}
+
+.body-text-style{
+text-align: center;
+padding-top:5px ;
+
+
+}
+.footer-style{
+ text-align: center;
+ margin-top: 60px;
+ background-color: rgb(237, 240, 243);
+ color: black;
+ font-size: medium;
+
+}
+
+
+
+
+
+.about-us{
+     text-align: center;
+     margin: 3% auto 5% auto;
+
+
+}
+
+.caption-style{
+background-color: rgb(215, 216, 218);
+align-items: center;
+font-size: medium;
+color: black;
+
+
+}
+.carousel-item-text{
+  text-align: center;
+  font-size: medium;
+  height: 50%;
+  color: rgb(19, 18, 18);
+  background-color: rgb(230, 231, 231);
+
+
+}
+
+.our-team{
+
+    text-align: center;
+    margin-top: 3%;
+    padding-top:3% ;
+}
+
+.body-designe{
+    margin-top: 20px;
+text-align: center;
+
+
+}
+
+.body-designe2{
+    margin-top: 20px;
+    text-align: center;
+    padding: 10% 30%;
+    background-color: white;
+
+
+}
+
+.form-style:focus{
+    background-color: rgb(224, 228, 228);
+    transform: rotateY(15deg);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
